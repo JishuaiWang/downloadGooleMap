@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadMap</string>
+    <string name="googleUrl"><![CDATA[http://www.google.cn/maps/vt?lyrs=r@189&gl=cn&x={x}&y={y}&z={z}]]></string>
+    <string name="download">开始下载</string>
+    <string name="minLevel">最小等级</string>
+    <string name="maxLevel">最大等级</string>
+</resources>
